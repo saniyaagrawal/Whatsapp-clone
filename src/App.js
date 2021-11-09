@@ -22,7 +22,6 @@ function App() {
                 <Chat/>
               </Route>
               <Route path='/'>
-                {/* <Chat/> */}
               </Route>
             </Switch>
           </Router>
